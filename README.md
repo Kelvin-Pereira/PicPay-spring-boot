@@ -9,5 +9,6 @@
  - DEV: http://localhost:8080/swagger-ui/index.html
 
 ## Desafio Back-end PicPay
-- [Git-Hub-PicPay](https://github.com/PicPay/picpay-desafio-backend)
+
+- [Git Hub PicPay](https://github.com/PicPay/picpay-desafio-backend)
 
